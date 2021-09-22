@@ -1,0 +1,3 @@
+12:39:10.106 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js_es.ftl"): Not found
+12:39:10.111 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+12:39:10.112 [main] DEBUG freemarker.cache - Loading template for "commons/commons-inject-js.ftl"("es_ES", UTF-8, parsed) from "jar:file:/C:/Users/daniele_bn/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
