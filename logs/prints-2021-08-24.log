@@ -1,0 +1,8 @@
+15:44:33.251 [main] INFO  resources.base - Se introduce el email
+15:44:33.375 [main] INFO  resources.base - Se introduce la contraseña
+15:44:33.485 [main] INFO  resources.base - Se clica en Acceder
+15:44:33.756 [main] INFO  resources.base - Se cierra la ventana
+15:44:54.725 [main] INFO  resources.base - Driver is initialized
+15:44:59.503 [main] INFO  resources.base - Navigated to Home Page
+15:44:59.616 [main] INFO  resources.base - Se aceptan las cookies
+15:44:59.671 [main] INFO  resources.base - Se clica en el icono de acceso
